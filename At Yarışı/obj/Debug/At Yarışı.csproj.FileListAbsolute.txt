@@ -1,0 +1,10 @@
+D:\At Yarışı\At Yarışı\bin\Debug\At Yarışı.exe.config
+D:\At Yarışı\At Yarışı\bin\Debug\At Yarışı.exe
+D:\At Yarışı\At Yarışı\bin\Debug\At Yarışı.pdb
+D:\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csprojAssemblyReference.cache
+D:\At Yarışı\At Yarışı\obj\Debug\At_Yarışı.Form1.resources
+D:\At Yarışı\At Yarışı\obj\Debug\At_Yarışı.Properties.Resources.resources
+D:\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.GenerateResource.cache
+D:\At Yarışı\At Yarışı\obj\Debug\At Yarışı.csproj.CoreCompileInputs.cache
+D:\At Yarışı\At Yarışı\obj\Debug\At Yarışı.exe
+D:\At Yarışı\At Yarışı\obj\Debug\At Yarışı.pdb
